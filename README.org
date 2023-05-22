@@ -1,0 +1,9 @@
+* chronicity
+
+A natural language date and time parser for Common Lisp
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/chaitanyagupta/chronicity.git |
+| commit  | 5841d15                                              |
+| systems | chronicity                                           |
+|---------+------------------------------------------------------|
