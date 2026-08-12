@@ -7,4 +7,4 @@ A natural language date and time parser for Common Lisp
 | commit  | 5841d15                                              |
 | systems | chronicity                                           |
 |---------+------------------------------------------------------|
- 
+  
